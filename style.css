@@ -1,0 +1,19 @@
+body{
+    color:rgb(22, 184, 216);
+    background-color:rgb(238, 158, 195);
+
+}
+.name_of_objects{
+    color:rgb(191, 104, 244);
+
+}
+#camera{
+    border: 2px dashed rgb(231, 158, 237);
+    width:350px ;
+    height: 350px;
+
+}
+#result_object_name, #result_object_accuracy {
+    color: rgb(85, 238, 136);
+    
+}
